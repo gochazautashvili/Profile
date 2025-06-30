@@ -121,10 +121,10 @@ const currentGoals = {
 ## 🌟 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/YourUsername/project1">
+  <a href="https://github.com/gochazautashvili/life-vibe">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gochazautashvili&repo=life-vibe&theme=tokyonight" />
   </a>
-  <a href="https://github.com/YourUsername/project2">
+  <a href="https://github.com/gochazautashvili/farm-connect">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gochazautashvili&repo=farm-connect&theme=tokyonight" />
   </a>
 </div>
