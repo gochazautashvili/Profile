@@ -56,21 +56,21 @@ console.log(developer.passion);
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=8&theme=tokyonight"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gochazautashvili&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gochazautashvili&layout=compact&langs_count=8&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gochazautashvili&theme=tokyonight" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gochazautashvili&theme=tokyo-night&hide_border=true&area=true" />
 </div>
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-frame=true&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=gochazautashvili&theme=tokyonight&no-frame=true&column=7" />
 </div>
 
 ## 💼 What I Do
@@ -122,17 +122,17 @@ const currentGoals = {
 
 <div align="center">
   <a href="https://github.com/YourUsername/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project1&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gochazautashvili&repo=life-vibe&theme=tokyonight" />
   </a>
   <a href="https://github.com/YourUsername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project2&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gochazautashvili&repo=project2&theme=tokyonight" />
   </a>
 </div>
 
 ## 📈 Coding Activity
 
 <div align="center">
-  <img src="https://wakatime.com/share/@YourUsername/your-wakatime-id.svg" width="800" />
+  <img src="https://wakatime.com/share/@gochazautashvili/your-wakatime-id.svg" width="800" />
 </div>
 
 ## 💡 Fun Facts
@@ -160,10 +160,10 @@ const currentGoals = {
   <a href="https://twitter.com/yourhandle">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:gochaautashvili@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://yourportfolio.com">
+  <a href="https://code-vibe.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
@@ -183,7 +183,7 @@ const currentGoals = {
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=gochazautashvili&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
 <div align="center">
