@@ -125,7 +125,7 @@ const currentGoals = {
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=gochazautashvili&repo=life-vibe&theme=tokyonight" />
   </a>
   <a href="https://github.com/YourUsername/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gochazautashvili&repo=project2&theme=tokyonight" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=gochazautashvili&repo=farm-connect&theme=tokyonight" />
   </a>
 </div>
 
