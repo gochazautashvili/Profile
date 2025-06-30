@@ -1,66 +1,191 @@
-<h1 align="center">Hi there 👋, I'm <span style="color:#00ffff;">გოჩა</span></h1>
-<h3 align="center">Full-stack Developer • Angular & React Architect • UI/UX Enthusiast</h3>
+# 👋 გამარჯობა, მე ვარ Full-Stack Developer!
 
-<br/>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&random=false&width=600&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;3%2B+Years+Experience+%F0%9F%92%BC;Building+Amazing+Web+Solutions+%F0%9F%8C%9F;Always+Learning+New+Technologies+%F0%9F%93%9A" alt="Typing SVG" />
+</div>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FFFF&center=true&vCenter=true&lines=Full-stack+Developer;Frontend+Fanatic;Backend+Tactician;Code+is+Poetry" />
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="900" height="280"/>
+</div>
+
+## 🎯 About Me
+
+```typescript
+const developer = {
+    name: "Full-Stack Developer",
+    experience: "3+ Years",
+    location: "Tbilisi, Georgia 🇬🇪",
+    passion: "Building scalable web applications",
+    currentFocus: "Modern web technologies & best practices",
+    lifePhilosophy: "Code is poetry written in logic"
+};
+
+console.log(developer.passion);
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+</div>
+
+## 🛠️ Tech Stack
+
+### 🎨 Frontend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,js,ts,angular,react,nextjs&theme=dark" />
+</div>
+
+### ⚙️ Backend
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nestjs,express,dotnet,cs&theme=dark" />
+</div>
+
+### 🗄️ Databases
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,redis&theme=dark" />
+</div>
+
+### 🔧 Tools & Others
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,aws,figma,postman,vscode&theme=dark" />
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="400">
+</div>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=tokyonight" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YourUsername&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+## 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YourUsername&theme=tokyonight&no-frame=true&column=7" />
+</div>
+
+## 💼 What I Do
+
+<div align="center">
+  
+| 🚀 **Frontend Magic** | 🔧 **Backend Power** | 📊 **Data Management** |
+|:---:|:---:|:---:|
+| Responsive UI/UX | RESTful APIs | Database Design |
+| Modern Frameworks | Microservices | Query Optimization |
+| Performance Optimization | Authentication & Security | Data Modeling |
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
+
+## 🎯 Current Focus
+
+```javascript
+const currentGoals = {
+    learning: [
+        "Advanced React Patterns",
+        "Cloud Architecture",
+        "DevOps Practices",
+        "System Design"
+    ],
+    building: [
+        "Scalable Web Applications",
+        "Modern UI Components",
+        "Efficient APIs",
+        "Database Optimization"
+    ],
+    exploring: [
+        "AI/ML Integration",
+        "Web3 Technologies",
+        "Mobile Development",
+        "Serverless Architecture"
+    ]
+};
+```
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="400">
+</div>
+
+## 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/YourUsername/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/YourUsername/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=YourUsername&repo=project2&theme=tokyonight" />
+  </a>
+</div>
+
+## 📈 Coding Activity
+
+<div align="center">
+  <img src="https://wakatime.com/share/@YourUsername/your-wakatime-id.svg" width="800" />
+</div>
+
+## 💡 Fun Facts
+
+<div align="center">
+  
+🔥 **Passionate** about clean code and best practices  
+🌱 **Always learning** new technologies and frameworks  
+☕ **Coffee lover** - Fueling late-night coding sessions  
+🎵 **Music enthusiast** - Coding with the perfect playlist  
+🌍 **Open to collaboration** on exciting projects  
+
+</div>
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="400">
+</div>
+
+## 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://yourportfolio.com">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  </a>
+</div>
 
 ---
 
-### 🧠 About Me  
-- 💼 3+ years experience in **full-stack web development**  
-- 🌍 Building accessible, multilingual, and scalable applications  
-- 🔧 Love working with **design systems, SCSS architecture, and responsive UI**  
-- 🎯 Currently sharpening my craft in **Angular animations & backend integrations**
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+</div>
 
----
+<div align="center">
+  
+### 💻 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
-### ⚙️ Tech Stack  
+**Thanks for visiting my profile! Happy coding! 🚀**
 
-<table>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" /></td>
-    <td><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" /></td>
-  </tr>
-</table>
+</div>
 
----
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=YourUsername&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</div>
 
-### 📊 GitHub Stats (Dark Mode ✨)
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=tokyonight&show_icons=true&count_private=true" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" />
-</p>
-
----
-
-### 🛰️ Let’s Connect  
-
-<p align="center">
-  <a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColor=white" /></a>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
